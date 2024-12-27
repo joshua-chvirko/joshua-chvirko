@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I'm currently working on building a portfolio of web scraping projects using Python, BeautifulSoup, and Pandas. I aim to analyze interesting datasets and extract insights from real-world data sources. I'm passionate about solving problems with code and continuously expanding my technical skill set. Check out my most recent project featuring the visualization of an online database utilizing regression models. 
+🔭 I'm currently working on building a portfolio of web scraping projects using Python, BeautifulSoup, and Pandas. I aim to analyze interesting datasets and extract insights from real-world data sources. I'm passionate about solving problems with code and continuously expanding my technical skill set. My most recent project features the visualization of an online database utilizing regression models. 
 <!--
 **joshua-chvirko/joshua-chvirko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
